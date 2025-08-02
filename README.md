@@ -4,7 +4,7 @@
 🔍 Passionate about building accessible, human-centered technology   
 🤖 Break Through Tech AI Fellow  
 🔗 Connect With Me   
-[LinkedIn](https://www.linkedin.com/in/yourprofile) 
+[LinkedIn](https://www.linkedin.com/in/yourprofile)   
 Email: vy.dang6768@gmail.com
 
 ## About Me  
