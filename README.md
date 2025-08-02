@@ -1,4 +1,8 @@
-Hi! I’m Vy, a Computer Science student passionate about UX/UI design, cognitive science, and machine learning. I’m focused on creating impactful, accessible technology by bridging data and design. I'm currently seeking opportunities to contribute to projects blending these skills.
+# Hi, I'm Vy 👋  
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) !  
-Reach me at: vy.dang6768@gmail.com
+🎓 Computer Science student @ Mississippi State | UX/UI | Cognitive Science | Machine Learning  
+🔍 Passionate about building accessible, human-centered technology that bridges design and data  
+🤖 Break Through Tech AI Fellow
+🔗 Connect With Me 
+[LinkedIn](https://www.linkedin.com/in/yourprofile) 
+Email: vy.dang6768@gmail.com
