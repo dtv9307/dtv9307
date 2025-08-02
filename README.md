@@ -1,9 +1,9 @@
 # Hi, I'm Vy ✌️ 
 
 🎓 Computer Science student @ Mississippi State | UX/UI | Cognitive Science | Machine Learning  
-🔍 Passionate about building accessible, human-centered technology 
-🤖 Break Through Tech AI Fellow
-🔗 Connect With Me 
+🔍 Passionate about building accessible, human-centered technology   
+🤖 Break Through Tech AI Fellow  
+🔗 Connect With Me   
 [LinkedIn](https://www.linkedin.com/in/yourprofile) 
 Email: vy.dang6768@gmail.com
 
