@@ -5,7 +5,7 @@
 🤖 Break Through Tech AI Fellow  
 🔗 Connect With Me   
 [LinkedIn](https://www.linkedin.com/in/yourprofile)   
-Email: vy.dang6768@gmail.com
+vy.dang6768@gmail.com
 
 ## About Me  
 I believe great products don’t just work — they resonate with people. That’s why I’m passionate about UX/UI design, cognitive science, and machine learning. I want to create tech that is not only efficient, but impactful and accessible.
