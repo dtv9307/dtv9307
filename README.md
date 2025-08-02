@@ -12,3 +12,6 @@ I believe great products don’t just work — they resonate with people. That�
 
 Through my experience in ML research, a UX/UI internship, and the Break Through Tech AI program, I’ve explored both backend (data processing, ML modeling) and frontend (UX/UI design, user interviews). I’m looking for roles or projects that turn insights into people-first solutions.
 
+## Projects 
+[AI Studio Project](https://github.com/dtv9307/BBT-AI-Studio) 
+[Break Through Tech Projects](https://github.com/dtv9307/Break-Through-Tech-Portfolio) 
